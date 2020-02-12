@@ -1,0 +1,15 @@
+EnterBuyOrder 042235 Alice 10.5 15
+EnterBuyOrder 042708 Carol 13.5 5
+EnterSellOrder 045055 Bob 17 4
+EnterBuyOrder 045832 Alice 16 7
+EnterSellOrder 051112 David 16 6
+EnterSellOrder 051612 Edison 16 9
+EnterBuyOrder 051742 Franklin 12 2
+EnterBuyOrder 052202 Galileo 13 2
+CancelBuyOrder 052305 Franklin
+ChangeBuyOrder 054710 Alice 15 1
+EnterBuyOrder 055008 Me 15 1
+EnterBuyOrder 055908 Me2 20.25 1
+ChangeSellOrder 060123 Bob 15 4
+DisplayHighestBuyOrder 060319 
+DisplayLowestSellOrder 064038

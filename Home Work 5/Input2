@@ -1,0 +1,42 @@
+PrintSkipList
+AddActivity 01110634 Running
+PrintSkipList
+AddActivity 01110658 Walking
+PrintSkipList
+AddActivity 01110747 Breakfast
+PrintSkipList
+AddActivity 01111239 Lunch
+PrintSkipList
+AddActivity 01111848 Dinner
+PrintSkipList
+RemoveActivity 01111848
+PrintSkipList
+RemoveActivity 01111239
+PrintSkipList
+RemoveActivity 01110747
+PrintSkipList
+RemoveActivity 01110658
+PrintSkipList
+RemoveActivity 01110634
+PrintSkipList
+PrintSkipList
+AddActivity 01110634 Running
+PrintSkipList
+AddActivity 01110658 Walking
+PrintSkipList
+AddActivity 01110747 Breakfast
+PrintSkipList
+AddActivity 01111239 Lunch
+PrintSkipList
+AddActivity 01111848 Dinner
+PrintSkipList
+RemoveActivity 01111848
+PrintSkipList
+RemoveActivity 01111239
+PrintSkipList
+RemoveActivity 01110747
+PrintSkipList
+RemoveActivity 01110658
+PrintSkipList
+RemoveActivity 01110634
+PrintSkipList
